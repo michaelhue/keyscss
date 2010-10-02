@@ -10,18 +10,18 @@ Download the stylesheet and include it via
     
 The stylesheet comes with two classes for light and dark keys for good visibility on every background. Since most websites have light backgrounds, the dark style is the default.
 
-    // Dark keys:
+    <!-- Dark keys: -->
     <kbd>ctrl</kbd> + <kbd>S</kbd>
-    // ...or...
+    <!-- ...or... -->
     <kbd class="dark">ctrl</kbd> + <kbd class="dark">S</kbd>
-    // ...or...
+    <!-- ...or... -->
     <span class="dark-keys">
         <kbd>ctrl</kbd> + <kbd>S</kbd>
     </span>
     
-    // Light keys:
+    <!-- Light keys: -->
     <kbd class="light">ctrl</kbd> + <kbd class="light">S</kbd>
-    // ...or...
+    <!-- ...or... -->
     <span class="light-keys">
         <kbd>ctrl</kbd> + <kbd>S</kbd>
     </span>
