@@ -8,7 +8,7 @@ Download the stylesheet and include it via
 
     <link rel="stylesheet" href="keys.css" type="text/css" />
     
-The stylesheet comes with two classes for light and dark keys for good visibility on every background. Since most websites have light backgrounds, the light style is the default.
+The stylesheet comes with two classes for light and dark keys for good visibility on every background. Since most websites have light backgrounds, the dark style is the default.
 
     // Dark keys:
     <kbd>ctrl</kbd> + <kbd>S</kbd>
