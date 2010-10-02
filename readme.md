@@ -30,3 +30,4 @@ That's all. The size of the keys depends on the set `font-size`.
 
 ## License
 
+MIT License (see LICENSE.txt)
