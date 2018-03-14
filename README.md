@@ -28,6 +28,10 @@ The stylesheet comes with two classes for light and dark keys for good visibilit
     
 That's all. The size of the keys depends on the set `font-size`.
 
+## Demo
+
+[Demo in JsFiddle](https://jsfiddle.net/or4n21og/5/)
+
 ## License
 
 MIT License (see LICENSE.txt)
